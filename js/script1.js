@@ -10,7 +10,7 @@ function changebackground()
 i++;
 if(i==1)
 {
-document.getElementById("body").style="background-image:url('./army8.jpg')";
+document.getElementById("body").style="background-image:url('./frontend-army/army8.jpg')";
 }
 if(i==2)
 {
