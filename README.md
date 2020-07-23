@@ -5,13 +5,14 @@
 ![Issues](https://img.shields.io/bitbucket/issues/insaiyann/frontend-army)
 ![License](https://img.shields.io/github/license/insaiyann/frontend-army)
 
-### Available at: 
+## Available at: 
 https://insaiyann.github.io/frontend-army/
 
 A Website mainly focused on Indian Army. Have functionalities like: Navigation bar, Drop-down menus, CSS styling and images.
 
-Screenshots: 
+## Screenshots: 
 
-<img src="./Screenshots/ss1.png" width="420px" height="215px"/> <img src="./Screenshots/ss2.png" width="420px" height="215px"/>
-<img src="./Screenshots/ss3.png" width="420px" height="215px"/>
-<img src="./Screenshots/ss4.png" width="420px" height="215px"/>
+<img src="./Screenshots/ss1.png" width="490px" height="280px"/>
+<img src="./Screenshots/ss2.png" width="490px" height="280px"/>
+<img src="./Screenshots/ss3.png" width="490px" height="280px"/>
+<img src="./Screenshots/ss4.png" width="490px" height="280px"/>
